@@ -29,7 +29,7 @@
 
 ---
 
-## :mailbox_closed: Contact
+## :mailbox_closed: Contacto
 
 - Podes encontrarme en [LinkedIn]
 
