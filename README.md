@@ -4,8 +4,9 @@
 
 <image
   src="fotoPescando.jpg"
-  alt="Foto Pescando"
-  caption="Foto pescando en Esquel, Chubut">
+  alt="Foto Pescando en Esquel, Chubut">
+  
+###### *Foto Pescando en Esquel, Chubut*
 
 ---
 
